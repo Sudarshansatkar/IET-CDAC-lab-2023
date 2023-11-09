@@ -1,0 +1,28 @@
+package com.demo.beans;
+
+
+
+public class MyFileSearch {
+	public boolean searchWord(String fname,String word) {
+		try(BufferedReader br=new BufferedReader(new FileReader(fname));){
+			String str=br.readLine();
+			while(str!=null) {
+				if(str.equals(word)) {
+					return true;
+				}
+				str=br.readLine();
+				try {
+					Thread.sleep(300);
+				} catch (InterruptedException e) {
+					
+					e.printStackTrace();
+				}
+			}
+			
+		} catch (IOException e) {
+			System.out.println(e.getMessage());
+		} 
+		return false;
+	}
+
+}
