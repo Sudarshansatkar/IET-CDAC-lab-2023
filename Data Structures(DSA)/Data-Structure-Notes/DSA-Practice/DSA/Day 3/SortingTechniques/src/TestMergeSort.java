@@ -19,7 +19,7 @@ public class TestMergeSort {
 			int mid=(start+end)/2;
 			mergesort(arr,start,mid);  //generate left tree
 			mergesort(arr,mid+1,end);  //generate right iteratiron
-			            //merge 2 sorted array
+			merge(arr,start,end,mid);            //merge 2 sorted array
 			
 		}
 		
@@ -36,18 +36,21 @@ public class TestMergeSort {
 			leftarr[i]=arr[start+i];
 		}
 		for(i=0;i<n2;i++) {
-			rightarr[i]=arr[mid+1+i];
+			rightarr[i]=arr[mid+i+1];
 		}
 		i=0;
 		j=0;
 		k=start;
 		
-		while(i<n1 && j<n2) {
+		while(i<n1 && j<n2)
+		{
 			if(leftarr[i]<rightarr[j]) {
 				arr[k]=leftarr[i];
 				i++;
 				k++;
-			}else {
+			}
+			else
+			{
 				arr[k]=rightarr[j];
 				j++;
 				k++;

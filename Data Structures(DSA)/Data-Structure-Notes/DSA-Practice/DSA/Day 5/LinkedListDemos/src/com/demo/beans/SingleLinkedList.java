@@ -5,7 +5,8 @@ public class SingleLinkedList {
     class Node{
     	int n;
     	Node next;
-    	Node(int d){
+    	Node(int d)
+    	{
     		n=d;
     		next=null;
     	}

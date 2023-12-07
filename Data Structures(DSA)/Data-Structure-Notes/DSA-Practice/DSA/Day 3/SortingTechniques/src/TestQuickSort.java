@@ -36,7 +36,7 @@ public class TestQuickSort
 				i++;
 			}
 			//decreament j till the value at j th position is > pivot value
-			while(j>pivot && arr[j]>arr[pivot]) {
+			while(j>pivot && arr[j>arr[pivot]) {
 				j--;
 			}
 			if(i<j) {

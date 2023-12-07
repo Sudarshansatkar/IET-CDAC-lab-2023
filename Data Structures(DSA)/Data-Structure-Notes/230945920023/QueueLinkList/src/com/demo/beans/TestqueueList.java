@@ -18,7 +18,7 @@ public class TestqueueList {
 			System.out.println("7. Display In reverse: ");
 			System.out.println("Enter choice : ");
 			ch = sc.nextInt();
-		}
+		}while(ch!=8);
 	}
 
 }
