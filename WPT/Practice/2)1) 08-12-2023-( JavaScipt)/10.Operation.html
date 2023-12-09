@@ -1,0 +1,50 @@
+<html>
+<head>
+<script>
+
+    function f1()
+    {
+        let s1=parseInt(document.getElementById("i1").value)
+        let s2=parseInt(document.getElementById("i2").value)
+        let s3=s1+s2
+        document.getElementById("p1").innerHTML="<b>"+s3+"</b>"
+    }
+
+
+</script>
+</head>
+
+
+<body>
+    <fieldset style="width: max-content;">
+        <H4>Enter Two numbers :</h4>
+
+        <label> 1st Number:<input type="number" id="i1" /> </label>
+        <br>
+        <label> 2nd Number:<input type="number" id="i2"/> </label>
+        <br>
+        <p>Select operation to perform:</p>
+        <select>
+            <option>select</option>
+            <option value="+" onclick="f1()">+</option>
+            <option value="-" onclick="f2()">-</option>
+            <option value="*" onclick="f3()">*</option>
+            <option value="/" onclick="f4()">/</option>
+        </select>
+
+        <p title="Result:" id="p1"></p>
+
+    </fieldset>
+
+
+</body>
+
+
+
+
+
+
+
+
+
+</html>

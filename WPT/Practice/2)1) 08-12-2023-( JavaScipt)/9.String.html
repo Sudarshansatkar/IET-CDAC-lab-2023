@@ -1,0 +1,46 @@
+<html>
+
+<head>
+<script>
+    function f1()
+    {
+            let inputelement=document.getElementById("i1")
+            let s=inputelement.value 
+            let ustr = s.toUpperCase()
+            document.getElementById("p1").innerHTML="<b>"+ustr+"</b>"
+            console.log("Hello")
+    }
+    function f2()
+    {
+            let inputelement=document.getElementById("i1")
+            let s=inputelement.value 
+            let ustr = s.toLowerCase()
+            document.getElementById("p1").innerHTML="<b>"+ustr+"</b>"
+            console.log("Hello")
+    }
+    function f3()
+    {
+            let s=document.getElementById("i1").value  
+            /// or let inputelement = document.getElementById("i1")
+            /// let s = inputelement.value
+      
+            let ustr1=s.charAt(0)
+            let ustr2=ustr1.toUpperCase()
+            let ustr3 = s.substring(1)
+            let ustr4=ustr3.toLowerCase()
+            let Tstr=ustr2+ustr4
+
+            document.getElementById("p1").innerHTML="<b>"+Tstr+"</b>"
+            console.log("Hello")
+    }
+    </Script>
+</head>
+<body>
+<label> Enter String:<input type="text" id="i1" /></label>
+    <input type="button" value="uppercase" onclick="f1()" />
+    <input type="button" value="lowercase" onclick="f2()" />
+    <input type="button" value="TitleCase" onclick="f3()" />
+    <p id="p1"> </p>
+
+</body>
+</html>
