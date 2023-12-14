@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <title>Document</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+    <script>
+    
+    $().ready(()=>{
+            $("#btn").click(()=>{
+                
+                let y=$("#ADI").data("msg")
+                let y1=$("#ADI").data("cnt")
+                let str1=`<b> ${y}-> ${y1}<b>`
+                
+                $("#ADI").html(str1)
+            })
+    })
+    
+    </script>
+    
+</head>
+<body>
+    <div data-cnt="5" data-msg="Adi is smart" name="pawar" id="ADI" >
+        
+    </div>
+    <button id="btn" >Press</button>
+</body>
+</html>

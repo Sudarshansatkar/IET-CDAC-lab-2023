@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <title>Registration</title>
+    </head>
+    <body>
+        <div>
+            <h1><center>Registration</center></h1>
+            <form action="../day1/first.html" method="get">
+                <fieldset>
+                    <legend>Student</legend>
+                    <label for="fname">First name:</label> <input type="text"  name="fn" required minlength="3"><br><br>
+                    <label for="lname">Last name:</label> <input type="text"  name="ln" ><br><br>
+                    <label for="dob">Date of Birth:</label> <input type="date" name="dob" min="2001-01-01"   max="2023-12-12"><br><br>
+                    <label for="address" style="float: left;">Address:</label> <textarea name="ta" cols="30" rows="10"  ></textarea><br><br>
+                    <label for="state">State:</label>
+
+                    <select name="state">
+                        <option value="select"></option>
+                        <option value="">Maharashtra</option>
+                        <option value="">Gujrat</option>
+                        <option value="">MP</option>
+                        <option value="">UP</option>
+                        <option value="">Kerala</option>
+                    </select><br><br>
+
+                    <label>Education: </label> 
+                    <pre><input type="checkbox" name="ssc"><label for="ssc">SSC</label>  <input type="checkbox" name="hsc"><label for="hsc">HSC</label>  <input type="checkbox" name="grad"><label for="grad">Degree</label>  <input type="checkbox" name="pg"><label for="pg">PG</label>  <input type="checkbox" name="phd"><label for="phd">PHD</label>
+                    </pre>
+
+                    <label>Gender: </label> 
+                    <input type="radio" name="gender" id="l1"><label for="l1">Male</label> &ensp;
+                    <input type="radio" name="gender" id="l2"><label for="l2">Female</label><br><br>
+
+                    <button>Submit</button>
+                </fieldset>
+            </form>
+        </div>
+    </body>
+</html>
