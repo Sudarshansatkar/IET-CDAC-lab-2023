@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <script>
+            function f1()
+            {
+                let x1=document.getElementById("i1").value
+                let o=document.getElementById("op").value
+                let result
+                switch (o)
+                {
+                    case 'Uppercase': result=x1.toUpperCase() ;break;
+                    case 'Lowercase': result=x1.toLowerCase() ;break;
+                }
+                document.getElementById("sp1").innerHTML=result
+            }
+        </script>
+    </head>
+    <body>
+        Enter a string <input type="text" id="i1">
+        Select Option:
+      <select id="op" onchange="f1()" >
+        <option > select</option>
+        <option > Uppercase</option>
+        <option > Lowercase</option>
+      </select>
+      <p >Result is <span id="sp1"></span></p>
+    </body>
+</html>

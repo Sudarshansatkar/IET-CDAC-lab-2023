@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <script>
+            function f1()
+            {
+                let i1=parseInt(document.getElementById("fn").value)
+                let i2=parseInt(document.getElementById("sn").value)
+                let op=document.getElementById("opr").value
+                let result
+                switch(op)
+                {
+                    case '+' : result=i1+i2; break;
+                    case '-' : result=i1-i2; break;
+                    case '*' :result=i1*i2; break;
+                    case '/' : result=i1/i2; break;
+                }
+           
+              let output = `${i1} ${op} ${i2} = ${result}`
+            //   let output= `<i> ${i1} ${op} ${i2} = ${result} </i>`
+                document.getElementById("sp1").innerHTML=output
+            }
+        </script>
+    </head>
+    <body>
+        Enter First Number: <input type="text" id="fn" >
+        <br>
+        <br>
+        Enter Second Number: <input type="text" id="sn">
+        <br>
+        <select id="opr" onchange="f1()">
+            <option >Select</option>
+            <option >+</option >
+            <option >-</option>
+            <option >*</option>
+            <option >/</option>
+        </select>
+        <p id="p1">The result is <span id="sp1"></span> </p>
+        <!-- <p>The result is <span id="sp1"></span></p> -->
+    </body>
+</html>
