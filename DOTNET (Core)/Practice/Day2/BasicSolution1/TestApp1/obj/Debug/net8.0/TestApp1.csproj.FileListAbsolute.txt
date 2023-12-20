@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day2\BasicSolution1\TestApp1\obj\Debug\net8.0\TestApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day2\BasicSolution1\TestApp1\obj\Debug\net8.0\TestApp1.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day2\BasicSolution1\TestApp1\obj\Debug\net8.0\TestApp1.AssemblyInfo.cs
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day2\BasicSolution1\TestApp1\obj\Debug\net8.0\TestApp1.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day2\BasicSolution1\TestApp1\bin\Debug\net8.0\TestApp1.exe
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day2\BasicSolution1\TestApp1\bin\Debug\net8.0\TestApp1.deps.json
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day2\BasicSolution1\TestApp1\bin\Debug\net8.0\TestApp1.runtimeconfig.json
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day2\BasicSolution1\TestApp1\bin\Debug\net8.0\TestApp1.dll
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day2\BasicSolution1\TestApp1\bin\Debug\net8.0\TestApp1.pdb
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day2\BasicSolution1\TestApp1\obj\Debug\net8.0\TestApp1.dll
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day2\BasicSolution1\TestApp1\obj\Debug\net8.0\refint\TestApp1.dll
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day2\BasicSolution1\TestApp1\obj\Debug\net8.0\TestApp1.pdb
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day2\BasicSolution1\TestApp1\obj\Debug\net8.0\TestApp1.genruntimeconfig.cache
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day2\BasicSolution1\TestApp1\obj\Debug\net8.0\ref\TestApp1.dll
