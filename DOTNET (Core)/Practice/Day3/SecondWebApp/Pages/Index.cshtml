@@ -1,0 +1,19 @@
+﻿@page
+@using HR;
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+
+    Details m1=new Details();
+    m1.centre="Institute of Emerging Technology";
+    
+}
+
+<div class="text-center">
+    <h1 class="display-4">E-Waste Management</h1>
+    <img src="\images\E.jpg" width="200" height="200" />
+    <p> Centre For C-Dac : @m1.centre</p>
+    <p>Learn about E-waste<a href="https://mpcb.gov.in/waste-management/electronic-waste">E-Waste Info</a>.</p>
+
+
+</div>

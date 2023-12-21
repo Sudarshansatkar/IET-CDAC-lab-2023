@@ -1,0 +1,15 @@
+@using sample;
+
+<div class="text-center">
+@{
+    Employee e1=ViewData["Emp"] as Employee;
+}
+
+
+<h1>Employee List</h1>
+<hr/>
+
+<p>ID: @e1.Id</p>
+<p>Name:@e1.FullName</p>
+
+<button>Employee add</button>

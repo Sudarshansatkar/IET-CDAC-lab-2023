@@ -1,0 +1,20 @@
+@using sample;
+
+<div class="text-center">
+@{
+    Product p1=ViewData["Fruit"] as Product;
+}
+
+<h1>Fruit Catalog </h1>
+<hr>
+<img src="/images/Mango.jpg" width="200" height="200">
+
+<p> Title: @p1.Title </p>
+<p> Description: @p1.Description </p>
+<p> Quantity: @p1.Quantity </p>
+<p> Unit Price: @p1.UnitPrice </p>
+<button > Add to cart </button>
+
+
+
+</div>
