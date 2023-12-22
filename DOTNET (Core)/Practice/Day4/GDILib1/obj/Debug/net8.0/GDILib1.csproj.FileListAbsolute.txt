@@ -1,0 +1,11 @@
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day4\GDILib1\bin\Debug\net8.0\GDILib1.deps.json
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day4\GDILib1\bin\Debug\net8.0\GDILib1.dll
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day4\GDILib1\bin\Debug\net8.0\GDILib1.pdb
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day4\GDILib1\obj\Debug\net8.0\GDILib1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day4\GDILib1\obj\Debug\net8.0\GDILib1.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day4\GDILib1\obj\Debug\net8.0\GDILib1.AssemblyInfo.cs
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day4\GDILib1\obj\Debug\net8.0\GDILib1.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day4\GDILib1\obj\Debug\net8.0\GDILib1.dll
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day4\GDILib1\obj\Debug\net8.0\refint\GDILib1.dll
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day4\GDILib1\obj\Debug\net8.0\GDILib1.pdb
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day4\GDILib1\obj\Debug\net8.0\ref\GDILib1.dll
