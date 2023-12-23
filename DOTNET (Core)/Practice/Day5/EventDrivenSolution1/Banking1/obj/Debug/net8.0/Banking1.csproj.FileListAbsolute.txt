@@ -1,0 +1,11 @@
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day5\EventDrivenSolution1\Banking1\bin\Debug\net8.0\Banking1.deps.json
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day5\EventDrivenSolution1\Banking1\bin\Debug\net8.0\Banking1.dll
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day5\EventDrivenSolution1\Banking1\bin\Debug\net8.0\Banking1.pdb
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day5\EventDrivenSolution1\Banking1\obj\Debug\net8.0\Banking1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day5\EventDrivenSolution1\Banking1\obj\Debug\net8.0\Banking1.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day5\EventDrivenSolution1\Banking1\obj\Debug\net8.0\Banking1.AssemblyInfo.cs
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day5\EventDrivenSolution1\Banking1\obj\Debug\net8.0\Banking1.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day5\EventDrivenSolution1\Banking1\obj\Debug\net8.0\Banking1.dll
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day5\EventDrivenSolution1\Banking1\obj\Debug\net8.0\refint\Banking1.dll
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day5\EventDrivenSolution1\Banking1\obj\Debug\net8.0\Banking1.pdb
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day5\EventDrivenSolution1\Banking1\obj\Debug\net8.0\ref\Banking1.dll

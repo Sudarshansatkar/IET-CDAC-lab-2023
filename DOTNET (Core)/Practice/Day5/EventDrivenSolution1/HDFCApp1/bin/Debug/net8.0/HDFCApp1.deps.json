@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HDFCApp1/1.0.0": {
+        "dependencies": {
+          "Banking1": "1.0.0"
+        },
+        "runtime": {
+          "HDFCApp1.dll": {}
+        }
+      },
+      "Banking1/1.0.0": {
+        "runtime": {
+          "Banking1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HDFCApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Banking1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
