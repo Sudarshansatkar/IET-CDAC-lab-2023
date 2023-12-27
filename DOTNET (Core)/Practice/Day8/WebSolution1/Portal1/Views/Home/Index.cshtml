@@ -1,0 +1,24 @@
+﻿@using System.Collections.Generic;
+@using Portal.Models;
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+  @{
+
+    List<Person> members=  (List<Person>)this.ViewData["Person1"];
+
+    foreach(Person p in members)
+{
+    <p> @p.FirstName @p.LastName </p>
+}    
+
+
+  }
+  
+   
+</div>
