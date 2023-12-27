@@ -1,0 +1,30 @@
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day8\WebSolution1\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day8\WebSolution1\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day8\WebSolution1\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day8\WebSolution1\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day8\WebSolution1\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day8\WebSolution1\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day8\WebSolution1\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day8\WebSolution1\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day8\WebSolution1\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day8\WebSolution1\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day8\WebSolution1\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day8\WebSolution1\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day8\WebSolution1\DAL\bin\Debug\net8.0\BOL.dll
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day8\WebSolution1\DAL\bin\Debug\net8.0\BOL.pdb
+C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day8\WebSolution1\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete
+E:\1) CDAC\8)DOT NET\Practice\MVC-WEBAPP-DB-Connected\WebSolution1\DAL\bin\Debug\net8.0\DAL.deps.json
+E:\1) CDAC\8)DOT NET\Practice\MVC-WEBAPP-DB-Connected\WebSolution1\DAL\bin\Debug\net8.0\DAL.dll
+E:\1) CDAC\8)DOT NET\Practice\MVC-WEBAPP-DB-Connected\WebSolution1\DAL\bin\Debug\net8.0\DAL.pdb
+E:\1) CDAC\8)DOT NET\Practice\MVC-WEBAPP-DB-Connected\WebSolution1\DAL\bin\Debug\net8.0\BOL.dll
+E:\1) CDAC\8)DOT NET\Practice\MVC-WEBAPP-DB-Connected\WebSolution1\DAL\bin\Debug\net8.0\BOL.pdb
+E:\1) CDAC\8)DOT NET\Practice\MVC-WEBAPP-DB-Connected\WebSolution1\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+E:\1) CDAC\8)DOT NET\Practice\MVC-WEBAPP-DB-Connected\WebSolution1\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\1) CDAC\8)DOT NET\Practice\MVC-WEBAPP-DB-Connected\WebSolution1\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+E:\1) CDAC\8)DOT NET\Practice\MVC-WEBAPP-DB-Connected\WebSolution1\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+E:\1) CDAC\8)DOT NET\Practice\MVC-WEBAPP-DB-Connected\WebSolution1\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+E:\1) CDAC\8)DOT NET\Practice\MVC-WEBAPP-DB-Connected\WebSolution1\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete
+E:\1) CDAC\8)DOT NET\Practice\MVC-WEBAPP-DB-Connected\WebSolution1\DAL\obj\Debug\net8.0\DAL.dll
+E:\1) CDAC\8)DOT NET\Practice\MVC-WEBAPP-DB-Connected\WebSolution1\DAL\obj\Debug\net8.0\refint\DAL.dll
+E:\1) CDAC\8)DOT NET\Practice\MVC-WEBAPP-DB-Connected\WebSolution1\DAL\obj\Debug\net8.0\DAL.pdb
+E:\1) CDAC\8)DOT NET\Practice\MVC-WEBAPP-DB-Connected\WebSolution1\DAL\obj\Debug\net8.0\ref\DAL.dll

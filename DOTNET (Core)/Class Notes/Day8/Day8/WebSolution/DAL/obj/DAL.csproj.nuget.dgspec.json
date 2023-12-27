@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IET\\Desktop\\Sudarshan&Yogita\\10).NET\\GIT\\DOTNET\\Day8\\Day8\\WebSolution\\DAL\\DAL.csproj": {}
+    "E:\\1) CDAC\\GIT\\IET-CDAC-lab-2023\\DOTNET (Core)\\Class Notes\\Day8\\Day8\\WebSolution\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IET\\Desktop\\Sudarshan&Yogita\\10).NET\\GIT\\DOTNET\\Day8\\Day8\\WebSolution\\BOL\\BOL.csproj": {
+    "E:\\1) CDAC\\GIT\\IET-CDAC-lab-2023\\DOTNET (Core)\\Class Notes\\Day8\\Day8\\WebSolution\\BOL\\BOL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IET\\Desktop\\Sudarshan&Yogita\\10).NET\\GIT\\DOTNET\\Day8\\Day8\\WebSolution\\BOL\\BOL.csproj",
+        "projectUniqueName": "E:\\1) CDAC\\GIT\\IET-CDAC-lab-2023\\DOTNET (Core)\\Class Notes\\Day8\\Day8\\WebSolution\\BOL\\BOL.csproj",
         "projectName": "BOL",
-        "projectPath": "C:\\Users\\IET\\Desktop\\Sudarshan&Yogita\\10).NET\\GIT\\DOTNET\\Day8\\Day8\\WebSolution\\BOL\\BOL.csproj",
-        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IET\\Desktop\\Sudarshan&Yogita\\10).NET\\GIT\\DOTNET\\Day8\\Day8\\WebSolution\\BOL\\obj\\",
+        "projectPath": "E:\\1) CDAC\\GIT\\IET-CDAC-lab-2023\\DOTNET (Core)\\Class Notes\\Day8\\Day8\\WebSolution\\BOL\\BOL.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\1) CDAC\\GIT\\IET-CDAC-lab-2023\\DOTNET (Core)\\Class Notes\\Day8\\Day8\\WebSolution\\BOL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -57,17 +57,17 @@
         }
       }
     },
-    "C:\\Users\\IET\\Desktop\\Sudarshan&Yogita\\10).NET\\GIT\\DOTNET\\Day8\\Day8\\WebSolution\\DAL\\DAL.csproj": {
+    "E:\\1) CDAC\\GIT\\IET-CDAC-lab-2023\\DOTNET (Core)\\Class Notes\\Day8\\Day8\\WebSolution\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IET\\Desktop\\Sudarshan&Yogita\\10).NET\\GIT\\DOTNET\\Day8\\Day8\\WebSolution\\DAL\\DAL.csproj",
+        "projectUniqueName": "E:\\1) CDAC\\GIT\\IET-CDAC-lab-2023\\DOTNET (Core)\\Class Notes\\Day8\\Day8\\WebSolution\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\IET\\Desktop\\Sudarshan&Yogita\\10).NET\\GIT\\DOTNET\\Day8\\Day8\\WebSolution\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IET\\Desktop\\Sudarshan&Yogita\\10).NET\\GIT\\DOTNET\\Day8\\Day8\\WebSolution\\DAL\\obj\\",
+        "projectPath": "E:\\1) CDAC\\GIT\\IET-CDAC-lab-2023\\DOTNET (Core)\\Class Notes\\Day8\\Day8\\WebSolution\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\1) CDAC\\GIT\\IET-CDAC-lab-2023\\DOTNET (Core)\\Class Notes\\Day8\\Day8\\WebSolution\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -79,8 +79,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\IET\\Desktop\\Sudarshan&Yogita\\10).NET\\GIT\\DOTNET\\Day8\\Day8\\WebSolution\\BOL\\BOL.csproj": {
-                "projectPath": "C:\\Users\\IET\\Desktop\\Sudarshan&Yogita\\10).NET\\GIT\\DOTNET\\Day8\\Day8\\WebSolution\\BOL\\BOL.csproj"
+              "E:\\1) CDAC\\GIT\\IET-CDAC-lab-2023\\DOTNET (Core)\\Class Notes\\Day8\\Day8\\WebSolution\\BOL\\BOL.csproj": {
+                "projectPath": "E:\\1) CDAC\\GIT\\IET-CDAC-lab-2023\\DOTNET (Core)\\Class Notes\\Day8\\Day8\\WebSolution\\BOL\\BOL.csproj"
               }
             }
           }

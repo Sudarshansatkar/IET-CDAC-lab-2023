@@ -1,0 +1,15 @@
+@using System.Collections.Generic;
+@using BOL;
+
+@{
+    ViewData["Title"] = "Product Catalog Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">We1234123lcome</h1>
+   @{
+        List<EmpDNET> allEmp=(List<EmpDNET>)this.ViewData["Emp1"];
+        foreach( EmpDNET p in allEmp){
+            <p> @p.Id  @p.Ename</p>
+        }
+}
