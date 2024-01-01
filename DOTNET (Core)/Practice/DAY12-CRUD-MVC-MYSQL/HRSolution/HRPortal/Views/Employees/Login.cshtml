@@ -1,0 +1,38 @@
+@{
+    ViewData["Title"] = "Loing Page";
+}
+
+
+
+
+<div class="row">
+  <div class="col-md-6" >
+    <div>
+      <img src="/images/login.jpg" width="200" height="200"/>
+    </div>
+   
+  </div>
+  <div class="col-md-6">
+    <div>
+
+  <form method="post" >
+    <div class="form-group">
+      <label for="username">User Name  :</label>
+      <input type="text" class="form-control" name="username" id="username" required>
+    </div>
+    <div class="form-group">
+      <label for="Password">Password:</label>
+      <input type="Password" class="form-control" name ="Password" id="Password" required>
+    </div>
+  
+    <input type="submit" value="Submit" class="submit" />
+  </form>
+  @{
+    string log=(String)(this.ViewData["log"]);
+  }
+
+<p> @log </p>
+  </div>
+
+  </div>
+</div>
