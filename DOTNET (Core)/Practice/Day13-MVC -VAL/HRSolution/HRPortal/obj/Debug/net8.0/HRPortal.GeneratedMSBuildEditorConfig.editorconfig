@@ -1,0 +1,115 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HRPortal
+build_property.RootNamespace = HRPortal
+build_property.ProjectDir = C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day12-MVC-Vlaidate\HRSolution\HRPortal\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\IET\Desktop\Sudarshan&Yogita\10).NET\Practice\Day12-MVC-Vlaidate\HRSolution\HRPortal
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/IET/Desktop/Sudarshan&Yogita/10).NET/Practice/Day12-MVC-Vlaidate/HRSolution/HRPortal/Views/Employees/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERhc2hib2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/Sudarshan&Yogita/10).NET/Practice/Day12-MVC-Vlaidate/HRSolution/HRPortal/Views/Employees/DeleteEMP.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERlbGV0ZUVNUC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/Sudarshan&Yogita/10).NET/Practice/Day12-MVC-Vlaidate/HRSolution/HRPortal/Views/Employees/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/Sudarshan&Yogita/10).NET/Practice/Day12-MVC-Vlaidate/HRSolution/HRPortal/Views/Employees/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/Sudarshan&Yogita/10).NET/Practice/Day12-MVC-Vlaidate/HRSolution/HRPortal/Views/Employees/EditEMP.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEVkaXRFTVAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/Sudarshan&Yogita/10).NET/Practice/Day12-MVC-Vlaidate/HRSolution/HRPortal/Views/Employees/Educational.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEVkdWNhdGlvbmFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/Sudarshan&Yogita/10).NET/Practice/Day12-MVC-Vlaidate/HRSolution/HRPortal/Views/Employees/ForgotP.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEZvcmdvdFAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/Sudarshan&Yogita/10).NET/Practice/Day12-MVC-Vlaidate/HRSolution/HRPortal/Views/Employees/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/Sudarshan&Yogita/10).NET/Practice/Day12-MVC-Vlaidate/HRSolution/HRPortal/Views/Employees/InsertEMP.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEluc2VydEVNUC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/Sudarshan&Yogita/10).NET/Practice/Day12-MVC-Vlaidate/HRSolution/HRPortal/Views/Employees/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/Sudarshan&Yogita/10).NET/Practice/Day12-MVC-Vlaidate/HRSolution/HRPortal/Views/Employees/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/Sudarshan&Yogita/10).NET/Practice/Day12-MVC-Vlaidate/HRSolution/HRPortal/Views/Employees/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXExvZ291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/Sudarshan&Yogita/10).NET/Practice/Day12-MVC-Vlaidate/HRSolution/HRPortal/Views/Employees/Personal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXFBlcnNvbmFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/Sudarshan&Yogita/10).NET/Practice/Day12-MVC-Vlaidate/HRSolution/HRPortal/Views/Employees/Professional.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXFByb2Zlc3Npb25hbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/Sudarshan&Yogita/10).NET/Practice/Day12-MVC-Vlaidate/HRSolution/HRPortal/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/Sudarshan&Yogita/10).NET/Practice/Day12-MVC-Vlaidate/HRSolution/HRPortal/Views/Home/Login1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbjEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/Sudarshan&Yogita/10).NET/Practice/Day12-MVC-Vlaidate/HRSolution/HRPortal/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/Sudarshan&Yogita/10).NET/Practice/Day12-MVC-Vlaidate/HRSolution/HRPortal/Views/Home/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/Sudarshan&Yogita/10).NET/Practice/Day12-MVC-Vlaidate/HRSolution/HRPortal/Views/Home/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXZWxjb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/Sudarshan&Yogita/10).NET/Practice/Day12-MVC-Vlaidate/HRSolution/HRPortal/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/Sudarshan&Yogita/10).NET/Practice/Day12-MVC-Vlaidate/HRSolution/HRPortal/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/Sudarshan&Yogita/10).NET/Practice/Day12-MVC-Vlaidate/HRSolution/HRPortal/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/Sudarshan&Yogita/10).NET/Practice/Day12-MVC-Vlaidate/HRSolution/HRPortal/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IET/Desktop/Sudarshan&Yogita/10).NET/Practice/Day12-MVC-Vlaidate/HRSolution/HRPortal/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fguq6p93n2

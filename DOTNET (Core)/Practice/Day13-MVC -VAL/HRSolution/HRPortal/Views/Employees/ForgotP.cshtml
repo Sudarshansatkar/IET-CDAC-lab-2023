@@ -1,0 +1,39 @@
+@{
+    ViewData["Title"] = "Forgot Password Page";
+   
+}
+<h1>Update your Password</h1>
+<hr>
+  <fieldset>
+
+
+<div class="text-center">
+    <form method="post">
+
+          <fieldset>
+          <legend>Update Password</legend>
+
+    <div>
+    <label for="username">UserName</label>
+    <input type="text" placeholder="Enter the user name" name="username" value="" required/>
+    </div>
+
+     <div>
+    <label for="Password">New Password</label>
+    <input type="password"  placeholder="Enter the new Password" name="Password" value="" required/>
+    </div>
+
+    <div>
+            <label>&nbsp;</label>
+            <input type="submit" value="Submit" class="submit" onclick=""></input>
+    <div>
+
+    @{
+         string pmsg=(String)this.ViewData["pmsg"];
+
+      }
+      <p> @pmsg</p>
+           
+</form>
+ </fieldset>
+</div>

@@ -1,0 +1,19 @@
+﻿@using BOL;
+
+@{
+    ViewData["Title"] = "Employees List Page";
+}
+
+<h1>Employees List</h1>
+<a href="/Employees/InsertEMP">New Employee</a>
+<hr/>
+@{
+    List<Employee>employees=ViewData["employees"]as List<Employee>;
+        <ol>
+          @foreach( Employee emp in employees){
+            <li>
+                   @emp.username   <a href="/Employees/List">Details</a>|<a href="/Employees/EditEMP">Edit</a>|<a href="/Employees/DeleteEMP">Delete</a>
+            </li>
+        }
+        </ol> 
+}
