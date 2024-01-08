@@ -1,0 +1,11 @@
+#poem {
+    background-color: yellow; 
+    border: 2px solid blue;
+    border-radius: 10px; 
+    font-size: 3cm;
+    font-style: italic;
+    color: black; 
+    text-align: center; 
+    margin-top: 50%; 
+    transform: translateY(-50%); 
+  }
