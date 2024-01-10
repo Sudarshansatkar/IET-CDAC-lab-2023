@@ -16,12 +16,12 @@ public class TestPrepareStatement {
 		try {
 			DriverManager.registerDriver(new com.mysql.cj.jdbc.Driver());
 			//step 2--Get connection
-			String url="jdbc:mysql://localhost:3306/test?useSSL=false";
-			Connection conn=DriverManager.getConnection(url,"root","root123");
+			String url="jdbc:mysql://192.168.10.150:3306/dac25?useSSL=false";
+			Connection conn=DriverManager.getConnection(url,"dac25","welcome");
 			if (conn!=null) {
 				System.out.println("connection done");
 				//step 3:---create a statement
-				PreparedStatement st=conn.prepareStatement("select * from product");
+				PreparedStatement st=conn.prepareStatement("select * from product2");
 				ResultSet rs=st.executeQuery();
 				while(rs.next()) {
 					System.out.println("Pid: "+rs.getInt(1));

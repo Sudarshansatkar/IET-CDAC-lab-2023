@@ -13,13 +13,13 @@ public class TestCreateStatement {
 		try {
 			DriverManager.registerDriver(new com.mysql.cj.jdbc.Driver());
 			//step 2--Get connection
-			String url="jdbc:mysql://localhost:3306/test?useSSL=false";
-			Connection conn=DriverManager.getConnection(url,"root","root123");
+			String url="jdbc:mysql://192.168.10.150:3306/dac25?useSSL=false";
+			Connection conn=DriverManager.getConnection(url,"dac25","welcome");
 			if (conn!=null) {
 				System.out.println("connection done");
 				//step 3:---create a statement
 				Statement st=conn.createStatement();
-				ResultSet rs=st.executeQuery("select * from product");
+				ResultSet rs=st.executeQuery("select * from product2");
 				while(rs.next()) {
 					System.out.println("Pid: "+rs.getInt(1));
 					System.out.println("Pname: "+rs.getString(2));

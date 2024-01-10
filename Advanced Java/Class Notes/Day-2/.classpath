@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="LoginAppliaction/src"/>
+	<classpathentry kind="src" path="MyCalculations/src"/>
+	<classpathentry kind="src" path="MyHelloWebApp/src"/>
+	<classpathentry kind="output" path="LoginAppliaction/build/classes"/>
+</classpath>

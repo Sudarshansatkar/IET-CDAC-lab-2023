@@ -15,12 +15,12 @@ public class ProductDaoImpl implements ProductDao {
 	static {
 		try {
 			conn=DBUtil.getMyConnection();
-			selectprod=conn.prepareStatement("select * from product");
-			insprod=conn.prepareStatement("insert into product values(?,?,?,?)");
-			selectbypid=conn.prepareStatement("select * from product where pid=?");
-			delbyid=conn.prepareStatement("delete from product where pid=?");
-			upbyid=conn.prepareStatement("update product set pname=?,qty=?,price=? where pid=?");
-			findsorted=conn.prepareStatement("select * from product order by price");
+			selectprod=conn.prepareStatement("select * from product2");
+			insprod=conn.prepareStatement("insert into product2 values(?,?,?,?)");
+			selectbypid=conn.prepareStatement("select * from product2 where pid=?");
+			delbyid=conn.prepareStatement("delete from product2 where pid=?");
+			upbyid=conn.prepareStatement("update product2 set pname=?,qty=?,price=? where pid=?");
+			findsorted=conn.prepareStatement("select * from product2 order by price");
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

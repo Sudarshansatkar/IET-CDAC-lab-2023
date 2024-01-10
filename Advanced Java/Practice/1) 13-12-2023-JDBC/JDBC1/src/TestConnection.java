@@ -13,7 +13,7 @@ public class TestConnection {
 			DriverManager.registerDriver(new com.mysql.cj.jdbc.Driver());
 			//step 2--Get connection
 			String url="jdbc:mysql://localhost:3306/test?useSSL=false";
-			Connection conn=DriverManager.getConnection(url,"root","root123");
+			Connection conn=DriverManager.getConnection(url,"dac25","welcome");
 			if (conn!=null) {
 				System.out.println("connection done");
 			}
