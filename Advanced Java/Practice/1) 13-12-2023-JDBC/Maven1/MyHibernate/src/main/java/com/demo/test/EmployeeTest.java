@@ -1,6 +1,6 @@
 package com.demo.test;
 
-import org.hibernate.Session;  
+import org.hibernate.Session;   
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
 import org.hibernate.cfg.Configuration;
@@ -26,16 +26,16 @@ public class EmployeeTest {
 	//	session.save(u2);
 		tr.commit();
 		session.close();
-//		Session sess1=sf.openSession();
-//		Transaction tr1=sess1.beginTransaction();
-//		//by default it is early fetch
-//		//Employee emp1=sess1.get(Employee.class, 14);
-//		//by default it is lazy fetch
+		Session sess1=sf.openSession();
+		Transaction tr1=sess1.beginTransaction();
+		//by default it is early fetch
+		Employee emp1=sess1.get(Employee.class, 2);
+		//by default it is lazy fetch
 //		Employee emp1=sess1.load(Employee.class, 14);
 //		System.out.println("before");
-//		System.out.println(emp1.getEname());
-//		System.out.println("after");
-//		tr1.commit();
+		System.out.println(emp1.getEname());
+		System.out.println("after");
+		tr1.commit();
 //		
 		
 	}
