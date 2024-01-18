@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Manifest-Version: 1.0
 Built-By: IET
 Build-Jdk: 17.0.6
 Created-By: Maven Integration for Eclipse
 
+=======
+Manifest-Version: 1.0
+Built-By: IET
+Build-Jdk: 17.0.6
+Created-By: Maven Integration for Eclipse
+
+>>>>>>> cb3c9955c3d6777556c92f0f5baf95c3bc3a93bc

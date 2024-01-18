@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE hibernate-mapping SYSTEM 
 	"hibernate-mapping-3.0.dtd">
@@ -11,4 +12,19 @@
   </class>
   
   
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping SYSTEM 
+	"hibernate-mapping-3.0.dtd">
+  <hibernate-mapping>
+  <class name="com.demo.model.Employee" table="emptab">
+    <id name="empid">
+    <generator class="assigned"></generator>
+    </id>
+    <property name="ename" type="string"></property>
+     <property name="sal" type="double"></property>
+  </class>
+  
+  
+>>>>>>> cb3c9955c3d6777556c92f0f5baf95c3bc3a93bc
   </hibernate-mapping>

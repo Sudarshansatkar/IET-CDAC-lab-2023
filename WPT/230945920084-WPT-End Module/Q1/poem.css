@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #poem {
     background-color: yellow; 
     border: 2px solid blue;
@@ -8,4 +9,16 @@
     text-align: center; 
     margin-top: 50%; 
     transform: translateY(-50%); 
+=======
+#poem {
+    background-color: yellow; 
+    border: 2px solid blue;
+    border-radius: 10px; 
+    font-size: 3cm;
+    font-style: italic;
+    color: black; 
+    text-align: center; 
+    margin-top: 50%; 
+    transform: translateY(-50%); 
+>>>>>>> cb3c9955c3d6777556c92f0f5baf95c3bc3a93bc
   }
